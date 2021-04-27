@@ -1,4 +1,4 @@
-package springbootexception.springbootexception;
+package com.logging.exception;
 
 public class CustomExceptionOne extends Throwable{
 

@@ -1,13 +1,13 @@
-package springbootexception.springbootexception;
+package com.logging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootExceptionApplication {
+public class SpringBootLoggingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootExceptionApplication.class, args);
+		SpringApplication.run(SpringBootLoggingApplication.class, args);
 	}
 
 }
